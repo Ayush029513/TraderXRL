@@ -38,3 +38,30 @@ TraderXRL/
 ![Equity Curve](results/equity_curve.png)
 
 ![Performance Comparison](results/performance_comparison.png)
+
+
+## Installation
+
+```bash
+git clone https://github.com/Ayush029513/TraderXRL.git
+cd TraderXRL
+pip install -r requirements.txt
+
+## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Gymnasium
+- Stable-Baselines3
+- PPO
+- Matplotlib
+- Technical Analysis (TA)
+
+## Results
+
+- PPO-based Reinforcement Learning Agent
+- Custom Trading Environment
+- Backtesting Framework
+- Risk Analysis (Sharpe Ratio, Drawdown)
+- Equity Curve Visualization

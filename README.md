@@ -32,3 +32,9 @@ TraderXRL/
 ├── models/
 ├── notebooks/
 ├── results/
+
+## Performance
+
+![Equity Curve](results/equity_curve.png)
+
+![Performance Comparison](results/performance_comparison.png)

@@ -1,3 +1,4 @@
+from dashboard.sidebar import render_sidebar
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -7,6 +8,7 @@ st.set_page_config(
     page_icon="📈",
     layout="wide"
 )
+stock, capital, uploaded_file, run = render_sidebar()
 
 st.title("📈 TraderXRL")
 st.subheader("Reinforcement Learning Trading Agent")

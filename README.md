@@ -67,4 +67,4 @@ pip install -r requirements.txt
 - Equity Curve Visualization
 
 ## Live Demo
-https://traderxrl-ayush.streamlit.app
+https://traderxrl.streamlit.app
